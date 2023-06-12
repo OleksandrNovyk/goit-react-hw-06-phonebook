@@ -10,7 +10,7 @@ export const Form = styled.form`
   gap: 16px;
   padding: 32px;
   border-radius: 12px;
-  background-color: hsla(215, 98%, 79%, 0.2);
+  background-color: hsla(215, 98%, 79%, 0.7);
   border: 2px solid blanchedalmond;
   font-size: 24px;
   color: #010101;

@@ -9,6 +9,6 @@ export const FilterWrapper = styled.div`
   color: #010101;
   padding: 32px;
   border-radius: 12px;
-  background-color: hsla(215, 98%, 79%, 0.2);
+  background-color: hsla(215, 98%, 79%, 0.7);
   border: 2px solid blanchedalmond;
 `;
