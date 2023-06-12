@@ -8,7 +8,7 @@ import { Label } from '../ContactForm/ContactForm.styled';
 
 const FilterInput = styled(DebounceInput)`
   min-width: 50%;
-  border-radius: 8px;
+  border-radius: 18px;
   font-size: 20px;
   placeholder: grey;
   padding: 12px 16px;
