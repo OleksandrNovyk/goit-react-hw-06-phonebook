@@ -11,5 +11,4 @@ export const FilterWrapper = styled.div`
   border-radius: 12px;
   background-color: hsla(215, 98%, 79%, 0.2);
   border: 2px solid blanchedalmond;
-  box-shadow: 10px 12px 12px 0px #cab1b14d;
 `;
