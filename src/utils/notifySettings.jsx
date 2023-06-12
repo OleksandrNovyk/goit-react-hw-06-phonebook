@@ -5,4 +5,5 @@ export const notifySettings = {
   opacity: 1,
   fontSize: '20px',
   borderRadius: '12px',
+  timeout: 500,
 };
