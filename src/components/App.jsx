@@ -1,4 +1,4 @@
-import { Container, MainHeader, SubHeader } from './App.styled';
+import { Container, MainHeader, SecondHeader } from './App.styled';
 import { ContactForm } from './ContactForm/ContactForm';
 import { Filter } from './Filter/Filter';
 import { ContactList } from './ContactList/ContactList';
@@ -8,7 +8,7 @@ export const App = () => {
     <Container>
       <MainHeader>Phonebook</MainHeader>
       <ContactForm />
-      <SubHeader>Contacts</SubHeader>
+      <SecondHeader>Contacts</SecondHeader>
       <Filter />
       <ContactList />
     </Container>

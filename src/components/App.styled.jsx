@@ -16,7 +16,7 @@ export const MainHeader = styled.h1`
   text-transform: uppercase;
 `;
 
-export const SubHeader = styled.h2`
+export const SecondHeader = styled.h2`
   font-size: 36px;
   color: #010101;
   text-transform: uppercase;
