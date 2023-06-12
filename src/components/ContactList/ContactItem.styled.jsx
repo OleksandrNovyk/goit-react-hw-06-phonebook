@@ -8,7 +8,7 @@ export const ListItem = styled.li`
   align-items: center;
   font-size: 20px;
   padding: 32px;
-  border-radius: 12px;
+  border-radius: 26px;
   background-color: hsla(215, 98%, 79%, 0.7);
   border: 2px solid blanchedalmond;
 `;
