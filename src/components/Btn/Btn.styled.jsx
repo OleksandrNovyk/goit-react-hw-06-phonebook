@@ -4,7 +4,7 @@ export const BtnElement = styled.button`
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 8px;
+  border-radius: 18px;
   padding: 12px 16px;
   font-size: 24px;
   font-weight: bold;
